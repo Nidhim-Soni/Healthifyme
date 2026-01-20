@@ -32,7 +32,7 @@ Follow these Steps :
 * Ask your questions on the main page.
 * Click generate and Relax back ypur report will be generated soon.
 '''
-st.info(f'{tips}')
+st.info(f'{tips  }')
 
 print('      ')
 # Lets design a sidebar for all the user parameter
